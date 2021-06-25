@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-less": "*",
+    "browser-sync": "*",
+    "vue": "*",
+    "vueify": "*",
+    "browserify": "*",
+    "vinyl-source-stream": "*",
+    "vue-router": "*",
+    "vuex": "*",
+    "firebase": "8.0.1"
+  }
+}
